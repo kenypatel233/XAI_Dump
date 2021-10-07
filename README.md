@@ -1,2 +1,2 @@
 # XAI_Dump
-- A dump of learnings in the field of explainable ai 
+A reference dump of learnings in the field of explainable ai 
